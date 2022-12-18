@@ -6,6 +6,7 @@ const App = () => {
     <Container>
       <Content>
         <Input />
+        <Button/>
       </Content>
     </Container>
   );
