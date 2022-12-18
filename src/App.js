@@ -1,10 +1,10 @@
-import './App.css';
+import {Container}from'./styles';
 
 const  App = () => {
   return (
-    <div>
+    <Container>
       
-    </div>
+    </Container>
   );
 }
 
